@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/xueja/rnn-tc/runs/checkpoints/model-4540"
+all_model_checkpoint_paths: "/home/xueja/rnn-tc/runs/checkpoints/model-980"
+all_model_checkpoint_paths: "/home/xueja/rnn-tc/runs/checkpoints/model-1870"
+all_model_checkpoint_paths: "/home/xueja/rnn-tc/runs/checkpoints/model-2760"
+all_model_checkpoint_paths: "/home/xueja/rnn-tc/runs/checkpoints/model-3650"
+all_model_checkpoint_paths: "/home/xueja/rnn-tc/runs/checkpoints/model-4540"
